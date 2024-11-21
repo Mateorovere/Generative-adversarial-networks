@@ -1,0 +1,18 @@
+/* frontend/src/Dogs.css */
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    color: inherit;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
