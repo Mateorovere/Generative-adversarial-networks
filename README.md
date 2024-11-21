@@ -131,7 +131,7 @@ git push origin feature/your-feature-name
 
 ---
 
-##Future improvements:
+## Future improvements:
 
 - An upgraded model for MNIST
 
