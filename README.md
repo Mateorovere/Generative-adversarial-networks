@@ -19,7 +19,7 @@ Cross-Origin Support: Enabled CORS for seamless communication between frontend a
 ---
 
 ## Project Structure
-
+```plaintext
 GAN/
 ├── backend/
 │   ├── app.py
@@ -38,7 +38,7 @@ GAN/
 │   └── package.json
 ├── docker-compose.yml
 └── README.md
-
+```
 ---
 
 ## Prerequisites
